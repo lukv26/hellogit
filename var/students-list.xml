@@ -97,4 +97,11 @@
 
 
 
+<student>
+	<firstname> Lukasz</firstname>
+        <lastname>Walewski</lastname>
+        <email> luaksz.walewski26@gmail.com</email>
+        <github>lukv26</github>
+        <group> KrDZIs3012Io</group>
+</student>
 </students>
